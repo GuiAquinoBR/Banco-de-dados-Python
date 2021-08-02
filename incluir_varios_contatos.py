@@ -9,9 +9,9 @@ dados = (
     ('Daiane',      '98765-1234'),
     ('Leidiane',    '98765-5678'),
     ('Washington',  '98765-9000'),
-    ('João',        '98754-9195'),
-    ('Maria',       '94132-4321'),
-    ('Cláudia',     '98765-5867'),
+    ('Arnaldo',     '98754-9195'),
+    ('Bernardo',    '94132-4321'),
+    ('Carlos',      '98765-5867'),
 )
 
 with nova_conexao() as conexao:

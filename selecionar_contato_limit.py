@@ -1,3 +1,5 @@
+# Consulta paginada
+
 from pymysql import Error
 from db import nova_conexao
 
